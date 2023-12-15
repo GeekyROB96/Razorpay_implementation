@@ -1,4 +1,4 @@
-# razor_pay
+# RazorPay Example Implementation
 
 A new Flutter project.
 
